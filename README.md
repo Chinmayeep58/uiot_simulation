@@ -59,7 +59,3 @@ The goal is to observe how underwater node movement and acoustic propagation aff
 * Real-time 3D visualization of node mobility and fog connectivity.
 * Performance charts showing system-wide delay and packet-loss trends.
 * Basic anomaly warnings when sensor readings exceed threshold values.
-
----
-
-ides
